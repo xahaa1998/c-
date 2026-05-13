@@ -1,17 +1,6 @@
 [5/10/2026 11:42 AM] ISLAM BOY: /*
-NAME _____ID _____ SECTION
-1 Saron Lema            (UGR/40524/18) --- 25
-2 Taha Hamza           (UGR/40607/18) --- 25
-3 Veronica Hailu         (UGR/40685/18) --- 25
-4 Yididiya Dereje        (UGR/40765/18) --- 25
-5 Yonatan Cherinet      (UGR/40814/18) --- 25
-6 Yosef Getahun         (UGR/25942/14) --- 25
-7 Yoseph Teshome       (UGR/40846/18) --- 25
-8 Abdiboru Jemal       (UGR/38764/18) --- 26
-9 Abenezer Markos      (UGR/38841/18) ---  26
-10 Amanuel Abera       (UGR/38918/18) ---- 26
-12 Yosef Getahun       (ugr/25942/14)-------ADD
-13 Eyerusalem Asbake    (ugr/26053/14)------ADD
+NAME _________________ID
+Taha Hamza           (UGR/40607/18)
 
    1. Description About the Program
 The ASTU Phone Number Management System is a C++ programmed application developed to manage student contact information efficiently.
